@@ -1,6 +1,5 @@
-git clone git@github.com:aunhappy/mpdf_checkin.git
 git clone https://github.com/aunhappy/mpdf_checkin.git
-cd auto_checkin
+cd mpdf_checkin
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 cp config.js.default config.js
 vi config.js
